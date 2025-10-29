@@ -7,7 +7,7 @@ It saves the data to a log file called `healthlog.txt` every time you run it.
 
 ---
 
-## ⚙️ Features
+##  Features
 -  System Date & Time  
 -  Uptime  
 -  CPU & Memory Usage  
@@ -20,7 +20,7 @@ It saves the data to a log file called `healthlog.txt` every time you run it.
 
  How to Run
 
-1️⃣ **Open PowerShell (as Administrator)**  
-2️⃣ Allow script execution:
+1 **Open PowerShell (as Administrator)**  
+2 Allow script execution:
 ```powershell
 Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
