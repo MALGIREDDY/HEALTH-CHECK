@@ -1,4 +1,3 @@
-@"
 #  Health Check Script (PowerShell)
 
 ## Overview
