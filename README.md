@@ -33,8 +33,8 @@ PROJECT STRUCTURE
 Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
 
 
-💬 Author
-👤 Developed by: M SAIDEEP
+ Author
+ Developed by: M SAIDEEP
 Instructor: FAVOUR LAWRENCE
-📅 Year: 2025
-🌐 GitHub: https://github.com/MALGIREDDY/HEALTH-CHECK
+ Year: 2025
+ GitHub: https://github.com/MALGIREDDY/HEALTH-CHECK
