@@ -17,6 +17,14 @@ It saves the data to a log file called `healthlog.txt` every time you run it.
 -  Logs all details to `healthlog.txt` with timestamps  
 
 ---
+PROJECT STRUCTURE
+
+📦 healthcheck-project
+ ┣ 📜 healthcheck.ps1        
+ ┣ 📜 healthlog.txt             
+ ┣ 📘 README.md                
+                   
+
 
  How to Run
 
@@ -24,3 +32,10 @@ It saves the data to a log file called `healthlog.txt` every time you run it.
 2 Allow script execution:
 ```powershell
 Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
+
+
+💬 Author
+👤 Developed by: M SAIDEEP
+Instructor: FAVOUR LAWRENCE
+📅 Year: 2025
+🌐 GitHub: https://github.com/MALGIREDDY/HEALTH-CHECK
