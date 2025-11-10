@@ -18,10 +18,10 @@ It saves the data to a log file called `healthlog.txt` every time you run it.
 ---
 PROJECT STRUCTURE
 
-📦 healthcheck-project
- ┣ 📜 healthcheck.ps1        
- ┣ 📜 healthlog.txt             
- ┣ 📘 README.md                
+ healthcheck-project
+ healthcheck.ps1        
+healthlog.txt             
+README.md                
                    
 
 
